@@ -24,7 +24,17 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Music"
+    url  = "/music"
+    weight = 1
+
+[[menu.main]]
+    name = "Videos"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "SALT"
     url  = "/blog/"
     weight = 2
 
@@ -93,13 +103,9 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p><strong>Lagos Nigeria</strong>
         <br>
-        <strong>Great Britain</strong>
+        <strong>Lagos Nigeria</strong>
       </p>
       """
     latitude = ""
@@ -144,7 +150,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
