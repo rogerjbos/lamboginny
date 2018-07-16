@@ -115,7 +115,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.JPG"
-    address = ""
+    #address = ""
     latitude = ""
     longitude = ""
 
@@ -133,8 +133,8 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
+    categories = false
+    tags = false
     search = true
 
 [params.carousel]
@@ -158,22 +158,23 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Do you want to see more about Lamboginny's humanitarian efforts?"
+    subtitle = "We have separate website that focuses on his prison projects, medical projects, and other philantrhopic efforts."
+    link_url = "www.savingalllivestogether.com"
+    link_text = "Saving All Lives Together (SALT) website"
 
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Media Reports"
+    subtitle = "Here are some recent press articles about Lamboginny's humanitarian efforts."
 
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
+
