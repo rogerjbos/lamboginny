@@ -12,7 +12,7 @@ googleAnalytics = "UA-121878757-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 0
+paginate = 1
 
 [menu]
 
