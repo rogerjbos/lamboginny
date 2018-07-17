@@ -15,7 +15,11 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center2"><h1>[Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)</h1></div>
+<div class="center">
+[<h1>Click here to see all streaming options</h1>](https://lamboginny.fanlink.to/Salt)
+</div>
+
+
 ---
 
 # SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
@@ -47,7 +51,7 @@ Lamboginny
 
 #### Lyrics
 
-<div class="center2">
+<div class="center">
 test
 </div>
 
@@ -58,136 +62,129 @@ Lamboginny is a self described "shoe freak" and in this song he talks about spen
 
 #### Lyrics
 
-<div class="center2">
+<div class="center">
 
 When you call my name, I go answer you
-
+<br>
 (We love Bennie Macaulay)
-
+<br>
 Lamboginny, Korede Bello oh eh
-
+<br>
 I get money to spend oh, baby korkor shoe; bia ne ba
-
+<br>
 I get money to waste oh, baby korkor shoe; bia ne ba
-
+<br>
 Too many money for bank oh, baby korkor shoe; bia ne ba
-
+<br>
 I say na only you I want ooh, baby korkor shoe; bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Kor-kor Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Kor-kor Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
-
-
+<br>
+<br>
 Money talking comedy, if you leave me tragedy
-
+<br>
 If you love me jejely oh, I go pay your salary
-
+<br>
 Sexy lady egueji, girl your type o pe meji
-
+<br>
 Time na money ooh, time na money oh eh eh
-
+<br>
 Korkor kokoro; biggy money ropoto
-
+<br>
 E go love me ooh, bia ne ba ye yee eeh
-
+<br>
 I no go let you go (no go let you go)
-
+<br>
 I no go let you go (no go let you go)
-
+<br>
 So if you love me ooh bia ne ba ye yee eeh
-
-
-
+<br>
+<br>
 I get money to spend oh, baby korkor shoe; bia ne ba
-
+<br>
 I get money to waste oh, baby korkor shoe; bia ne ba
-
+<br>
 Too many money for Bank oh, baby korkor shoe; bia ne ba
-
+<br>
 I say na only you I want ooh, baby korkor shoe; bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Kor-kor Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
-
-
+<br>
+<br>
 You cannot bata na motor ka mu na gipa 1 & 2
-
+<br>
 hmmn 1 & 2
-
+<br>
 tide go nu microphone hmmnn 1 & 2
-
+<br>
 Mu ga na test ya 1 & 2
-
+<br>
 Okay, odinma, nna chacha Adama
-
+<br>
 I no go let you go okwima
-
+<br>
 Muna gi su oyibo grammar
-
+<br>
 Bar man 1, 1 bottle, in the korkor, 2, 2 bottles
-
+<br>
 Ayi ne ri ego, bundle, bundle
-
+<br>
 Ayi ne ti ego hot(u), hot(u)
-
+<br>
 Mana eka ne ri eeh legit eeh, legit eeh
-
+<br>
 eka ne ri eeh legit eeh, legit eeh
-
-
-
+<br>
+<br>
 I get money to spend oh, baby korkor shoe; bia ne ba
-
+<br>
 I get money to waste oh, baby korkor shoe; bia ne ba
-
+<br>
 Too many money for Bank oh, baby korkor shoe; bia ne ba
-
+<br>
 I say na only you I want ooh, baby korkor shoe; bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Kor-kor Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
+<br>
 Kor-kor Korkor: bia ne ba
-
+<br>
 Oya Korkor: bia ne ba
-
-
-
+<br>
+<br>
 Mana eka ne ri eeh legit eeh, legit eeh
-
+<br>
 eka ne ri eeh legit eeh, legit eeh
-
-
-
+<br>
 </div>
 
 

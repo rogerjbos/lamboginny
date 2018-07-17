@@ -1,16 +1,6 @@
-/* your styles go here */
-
-.box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
-}
-
-.box-simple {
-  min-height: 230px;
-}
-
 /* CSS */
 @import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
+
 .remark-code, .remark-inline-code { font-family: 'Fira Code'; }
 
 .size120 {font-size: 120%}
@@ -28,7 +18,7 @@
   padding-bottom: 10px;
 }
 
-.my-header {
+div.my-header {
     background-color: #F77A00;
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffb76b), color-stop(0%,#ffa73d), color-stop(0%,#ffffff), color-stop(10%,#ffffff), color-stop(25%,#F77A00), color-stop(100%,#F77A00));
     position: fixed;
@@ -39,7 +29,7 @@
     text-align: left;
 }
 
-.my-footer {
+div.my-footer {
     background-color: #272822;
     position: absolute;
     bottom: 0px;
@@ -47,7 +37,7 @@
     height: 20px;
     width: 100%;
 }
-.my-footer span {
+div.my-footer span {
     font-size: 10pt;
     color: #F7F8FA;
     position: absolute;
@@ -55,7 +45,8 @@
     bottom: 2px;
 }
 
-.center {
+div.center {
     text-align: center;
 }
+
 

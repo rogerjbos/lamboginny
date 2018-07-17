@@ -103,7 +103,7 @@ paginate = 1
     # Enable the contact form by entering your Formspree.io email
     email = "lamboginnysalt@gmail.com"
 
-    about_us = "<p>Lamboginny is a popular afro-dancechall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador.</p>"
+    about_us = "<p>Lamboginny is a popular afro-dancehall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador.</p>"
     copyright = "Copyright (c) 2018, Lamboginny Music; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -175,5 +175,5 @@ paginate = 1
 [params.recent_posts]
     enable = true
     title = "From the Lambo Blog"
-    subtitle = "Lamboginny is a popular afro-dancechall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador."
+    subtitle = "Lamboginny is a popular afro-dancehall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador."
 

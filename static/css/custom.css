@@ -55,11 +55,7 @@
     bottom: 2px;
 }
 
-.center2 {
-    text-align: center;
-}
-
 .center {
-    margin: auto;
+    text-align: center;
 }
 
