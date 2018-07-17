@@ -1,6 +1,5 @@
 +++
 title = "FAQ"
-id = "faq"
 description = "Frequently asked questions"
 +++
 

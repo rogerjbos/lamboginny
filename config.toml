@@ -12,7 +12,7 @@ googleAnalytics = "UA-121878757-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 3
+paginate = 0
 
 [menu]
 
@@ -102,7 +102,7 @@ paginate = 3
     # Enable the contact form by entering your Formspree.io email
     email = "lamboginnysalt@gmail.com"
 
-    about_us = "<p>Afro-dancecallellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Lamboginny is a popular afro-dancechall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador.</p>"
     copyright = "Copyright (c) 2018, Lamboginny Music; all rights reserved."
 
     # Format dates with Go's time formatting
