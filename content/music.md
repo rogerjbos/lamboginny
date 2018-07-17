@@ -1,13 +1,16 @@
 +++
 title = "Music"
+id = "music"
 description = "Album infomation"
 +++
 
 ---
 
+![SALT](img/salt.jpg)
+
 [Click to Stream](https://lamboginny.fanlink.to/Salt)
 
-## 1 Intro - Sea Sound
+## 1 Intro - Sea Sound - Featuring DJ Jimmy Jett
 ## 2 Salt - Produced by STO
 ## 3 KorKor - Featureing Korede Bello - Produced by Bennie Maccauly
 ## 4 Read My Lips - Featuring Olamide - Produced by STO
@@ -25,3 +28,4 @@ description = "Album infomation"
 ## 16 My Legacy - Produced by STO
 
 [Click to Stream](https://lamboginny.fanlink.to/Salt)
+

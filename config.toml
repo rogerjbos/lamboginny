@@ -1,5 +1,5 @@
 baseurl = "https://www.lamboginny.org/"
-title = "Lamboginny"
+title = "Lamboginny Music World - SALT"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -12,7 +12,7 @@ googleAnalytics = "UA-121878757-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Define the number of posts per page
-paginate = 10
+paginate = 3
 
 [menu]
 
@@ -24,20 +24,30 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    name = "Music"
+    url  = "/music/"
+    weight = 2
+
+[[menu.main]]
+    name = "Youtube Videos"
+    url  = "https://www.youtube.com/results?search_query=lamboginny"
+    weight = 3
+
+[[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 3
+    weight = 5
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 6
 
 # Top bar social links menu
 
@@ -51,7 +61,7 @@ paginate = 10
     weight = 2
     name = "Instagram"
     url = "https://instagram.com/Lamboginny"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -98,7 +108,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "img/logo.jpg"
     address = """<p><strong>Lamboginny Music World</strong>
         <br>
         <strong>Lagos Nigeria</strong>
@@ -121,8 +131,8 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
+    categories = false
+    tags = false
     search = true
 
 [params.carousel]
@@ -148,10 +158,10 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-church"
-    title = "Do you want to find out more about my prison ministry and other humanitarian causes?"
-    subtitle = "Please check out of Saving All Lives Together (SALT) page."
+    title = "Do you want to find out more about Lamboginny's prison ministry and other humanitarian causes?"
+    subtitle = "Please check out the Saving All Lives Together (SALT) site for more info."
     link_url = "http://www.savingalllivestogether.com"
-    link_text = "Check out our SALT page"
+    link_text = "Check out the SALT page"
 
 [params.clients]
     enable = true
