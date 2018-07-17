@@ -169,7 +169,7 @@ paginate = 0
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Media Reports"
-    subtitle = ""
+    subtitle = " "
 
 [params.recent_posts]
     enable = true
