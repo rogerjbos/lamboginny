@@ -82,7 +82,7 @@ paginate = 1
     defaultDescription = "Afro-dance artist for humanitarian causes."
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
+    #googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "green"
@@ -114,8 +114,8 @@ paginate = 1
         <strong>Lagos Nigeria</strong>
       </p>
       """
-    latitude = "6.5514611"
-    longitude = "3.1902303"
+    #latitude = "6.5514611"
+    #longitude = "3.1902303"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

@@ -8,3 +8,61 @@
 .box-simple {
   min-height: 230px;
 }
+
+/* CSS */
+@import url(https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css);
+
+.remark-code, .remark-inline-code { font-family: 'Fira Code'; }
+
+.size200 {font-size: 200%}
+.size120 {font-size: 120%}
+.size80 {font-size: 80%}
+.size70 {font-size: 70%}
+.size60 {font-size: 60%}
+.size50 {font-size: 50%}
+.size40 {font-size: 40%}
+.size30 {font-size: 30%}
+
+.remark-slide-content {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.my-header {
+    background-color: #F77A00;
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffb76b), color-stop(0%,#ffa73d), color-stop(0%,#ffffff), color-stop(10%,#ffffff), color-stop(25%,#F77A00), color-stop(100%,#F77A00));
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.my-footer {
+    background-color: #272822;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 20px;
+    width: 100%;
+}
+.my-footer span {
+    font-size: 10pt;
+    color: #F7F8FA;
+    position: absolute;
+    left: 15px;
+    bottom: 2px;
+}
+
+.center2 {
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+}
+
+
