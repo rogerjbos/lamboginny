@@ -76,6 +76,7 @@ paginate = 1
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
+    custom_css = ["css/custom.css"]
     viewMorePostLink = "/blog/"
     author = "Lamboginny"
     defaultKeywords = ["Dancehall", "prison ministry", "humanitarian", "African"]
@@ -175,3 +176,4 @@ paginate = 1
     enable = true
     title = "From the Lambo Blog"
     subtitle = "Lamboginny is a popular afro-dancechall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador."
+
