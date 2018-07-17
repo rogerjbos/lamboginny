@@ -15,11 +15,12 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div.center>[Click here to list streaming options](https://lamboginny.fanlink.to/Salt)
+#<center>[Click here to list streaming options](https://lamboginny.fanlink.to/Salt)
 
 ---
 
 # SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
+
 
 ### 1 - [Intro](#intro) - Sea Sound - Featuring DJ Jimmy Jatt
 ### 2 - [Salt](#salt) - Produced by STO
@@ -29,9 +30,9 @@ description = "Album infomation"
 ### 6 - [Keep On Moving](#keeponmoving) - Featuring Muna - Produced by STO
 ### 7 - [Blessed](#blessed) - Produced by STO
 ### 8 - [Yebo](#yebo) - Featuring Mr. P (Psquared) - Produced by STO
-### 9 - [Ghetto Boy Dream](#)ghettoboydream - Produced by Cmars
+### 9 - [Ghetto Boy Dream](#ghettoboydream) - Produced by Cmars
 ### 10 - [Club 100](#club100) - Produced by STO
-### 11 - [Washorire](#washorire) (Produced by Bennie Macaulay)
+### 11 - [Washorire](#washorire) - Produced by Bennie Macaulay
 ### 12 - [Ore Mi](#oremi) - Produced by STO
 ### 13 - [Heal Me](#healme) - Featuring Mike Aremu - Produced by STO
 ### 14 - [Ise Oluwa](#iseoluwa) - Featuring Small Doctor - Produced by Bennie Macauly
@@ -41,13 +42,24 @@ description = "Album infomation"
 ---
 
 
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<center>
+test
+</center>
+
+
 ### KorKor <a id="korkor"></a>
 
 Lamboginny is a self described "shoe freak" and in this song he talks about spending money on shoes for his girl.  Korkor is supposed to describe the sound a beautiful woman makes when she walks in high heels on a wooden floor. 
 
 #### Lyrics
 
-<div.center>
+<center>
 
 When you call my name, I go answer you
 (We love Bennie Macaulay)
@@ -114,7 +126,7 @@ Oya Korkor: bia ne ba
 Mana eka ne ri eeh legit eeh, legit eeh
 eka ne ri eeh legit eeh, legit eeh
 
-</div.center>
+<center>
 
 ### Read My Lips
 
@@ -122,7 +134,7 @@ Lamboginny is a self described "shoe freak".  In this song kor kor is supposed t
 
 #### Lyrics
 
-<div.center>
+<center>
 
 
 [Intro]
@@ -197,3 +209,5 @@ You wanna enter my car now?
 Oh! That’s the outro
 Emi ati Baddo, oya, outro
 STO lo se beat yen, outro
+
+<center>
