@@ -40,7 +40,7 @@
     height: 20px;
     width: 100%;
 }
-div.my-footer span {
+.my-footer span {
     font-size: 10pt;
     color: #F7F8FA;
     position: absolute;
@@ -48,8 +48,11 @@ div.my-footer span {
     bottom: 2px;
 }
 
-center {
+.center2 {
     text-align: center;
 }
 
+.center {
+    margin: auto;
+}
 

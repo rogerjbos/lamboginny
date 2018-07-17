@@ -15,8 +15,8 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-#<center>[Click here to list streaming options](https://lamboginny.fanlink.to/Salt)
-
+#<div class="center">[Click here to list streaming options](https://lamboginny.fanlink.to/Salt)
+</div>
 ---
 
 # SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
@@ -48,9 +48,9 @@ Lamboginny
 
 #### Lyrics
 
-<center>
+<div class="center">
 test
-</center>
+</div>
 
 
 ### KorKor <a id="korkor"></a>
@@ -59,7 +59,7 @@ Lamboginny is a self described "shoe freak" and in this song he talks about spen
 
 #### Lyrics
 
-<center>
+<div class="center">
 
 When you call my name, I go answer you
 (We love Bennie Macaulay)
@@ -126,7 +126,7 @@ Oya Korkor: bia ne ba
 Mana eka ne ri eeh legit eeh, legit eeh
 eka ne ri eeh legit eeh, legit eeh
 
-<center>
+</div>
 
 ### Read My Lips
 
@@ -134,7 +134,7 @@ Lamboginny is a self described "shoe freak".  In this song kor kor is supposed t
 
 #### Lyrics
 
-<center>
+<div class="center">
 
 
 [Intro]
@@ -210,4 +210,4 @@ Oh! That’s the outro
 Emi ati Baddo, oya, outro
 STO lo se beat yen, outro
 
-<center>
+</div>
