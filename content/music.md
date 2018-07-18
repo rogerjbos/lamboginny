@@ -5,8 +5,6 @@ description = "Album infomation"
 
 ---
 
-![SALT](img/salt.jpg)
-
 # Follow on Spotify
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4KK2BzTIojD7LTz9ndsVGF&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
@@ -15,10 +13,9 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center">
-[<h1>Click here to see all streaming options</h1>](https://lamboginny.fanlink.to/Salt)
-</div>
-
+<div class="center"><h1>
+[Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)
+</h1></div>
 
 ---
 
@@ -55,6 +52,15 @@ Lamboginny
 test
 </div>
 
+### Salt <a id="salt"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
 
 ### KorKor <a id="korkor"></a>
 
@@ -196,150 +202,277 @@ Lamboginny is a self described "shoe freak".  In this song kor kor is supposed t
 
 <div class="center2">
 
-
 [Intro]
-
+<br>
 Leggo, Lamboginny
-
+<br>
 Okay, bad girl
-
+<br>
 Wagwan
-
+<br>
 Me I know you’re professional lips reader
-
+<br>
 And you know me a professional dandada
-
+<br>
 Read My Lips and follow instruction
-
-
-
-[Hook/Chorus]
-
+<br>
+[Chorus]
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your boyfriend to know that am talking to you
-
+<br>
 I don’t want your girlfriend to know that am speaking to you
-
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your Neighbour to know that am talking to you
-
+<br>
 I don’t want your Brother to know that am speaking to you
-
-
-
+<br>
 [Verse 1 – Lamboginny]
-
+<br>
 Okay! Same girl wey I see for abadi beach
-
+<br>
 Same girl wey I see for conjuction-mo
-
+<br>
 Now, she dey eye me and my John-Thomas
-
+<br>
 She want come my house for Bode Thomas
-
+<br>
 What amma do to you go bad gan
-
+<br>
 E ba mi so fun sisi yen o, what amma do to you go bad gan
-
+<br>
 If I give you dragon, you go mad gan
-
+<br>
 When I show you dragon, you go mad gan
-
+<br>
 I say, what amma do to you go bad gan
-
-
-
-[Hook/Chorus]
-
+<br>
+[Chorus]
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your boyfriend to know that am talking to you
-
+<br>
 I don’t want your girlfriend to know that am speaking to you
-
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your Neighbour to know that am talking to you
-
+<br>
 I don’t want your Brother to know that am speaking to you
-
-
+<br>
 [Verse 2 – Olamide]
-
+<br>
 Oya, silence! Baddo, Baddo
-
+<br>
 Oya, watch Kalakunda, ‘Kunda
-
+<br>
 For my mind, I don wound her, wound her
-
+<br>
 Don’t go there triangle, bermuda
-
+<br>
 Oba ni mi, mi o n se Prince of Zamunda ‘Munda
-
+<br>
 Oya, Kalakuta ‘Kuta
-
+<br>
 Awon t’emi n Kalakuta ‘Kuta
-
+<br>
 E ma wo Aunty Ruka’ Ruka’
-
+<br>
 O l’oun fe k’a lo fun Vavavoomva, Voomva
-
+<br>
 O ni ki n sneak e in, ki n gbe Espo wo’le ohh
-
+<br>
 O ni bi n ti e win, ki n gb’Etoo wo’le oh
-
+<br>
 Isan Cameroon lo fe ki n lo, ki n je k’o wo’le oh
-
+<br>
 O ni fake puna’ ohun o si l’Oluwole oh
-
+<br>
 Aww Aww
-
-
-
-[Hook/Chorus]
-
+<br>
+[Chorus]
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your boyfriend to know that am talking to you
-
+<br>
 I don’t want your girlfriend to know that am speaking to you
-
+<br>
 Oh baby Read My Lips, Read My Lips
-
+<br>
 Oh baby Read My Lips oh, Read My Lips
-
+<br>
 I don’t want your Neighbour to know that am talking to you
-
+<br>
 I don’t want your Brother to know that am speaking to you
-
-
-
+<br>
 [Outro]
-
+<br>
 Okay!! oya, outro
-
+<br>
 Fine girl, mo ni outro
-
+<br>
 You wanna enter my car now?
-
+<br>
 Oh! That’s the outro
-
+<br>
 Emi ati Baddo, oya, outro
-
+<br>
 STO lo se beat yen, outro
-
-
+<br>
 </div>
 
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
+
+### Intro <a id="intro"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
