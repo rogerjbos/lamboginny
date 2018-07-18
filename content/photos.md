@@ -1,5 +1,5 @@
 +++
-title = "Phots"
+title = "Photos"
 description = "Photo Album"
 +++
 
@@ -7,11 +7,14 @@ description = "Photo Album"
 
 # Salt album launch concert at Kirikiri prison 2017
 
-![](img/photos/onstage.jpg)
-![](img/photos/salt1.jpg)
-![](img/photos/salt1.jpg)
+![](https://www.lamboginny.org/img/photos/onstage.jpg)
+
+![](https://www.lamboginny.org/img/photos/salt1.jpg)
+
+![](https://www.lamboginny.org/img/photos/salt1.jpg)
 
 # Ebola awareness mission trip
 
-![](img/photos/ebola1.jpg)
-![](img/photos/ebola2.jpg)
+![](https://www.lamboginny.org/img/photos/ebola1.jpg)
+
+![](https://www.lamboginny.org/img/photos/ebola2.jpg)
