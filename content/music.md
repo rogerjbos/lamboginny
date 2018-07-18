@@ -17,7 +17,7 @@ description = "Album infomation"
 
 ---
 
-<img src="https://www.lamboginny.org/img/music/salt-Album-Art.jpg" width="200" height="200" />
+<img src="https://www.lamboginny.org/img/music/salt-Album-Art.jpg" width="450" height="450" />
 
 ## SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
 
@@ -44,6 +44,8 @@ description = "Album infomation"
 
 ### Intro <a id="intro"></a>
 
+<img src="https://www.lamboginny.org/img/music/seasound.jpg" width="200" height="200" />
+
 Lamboginny is introduced by his good friend DJ Jimmy Jatt.
 
 #### Lyrics
@@ -53,6 +55,8 @@ Lamboginny is introduced by his good friend DJ Jimmy Jatt.
 </div>
 
 ### Salt <a id="salt"></a>
+
+<img src="https://www.lamboginny.org/img/music/salt.jpg" width="200" height="200" />
 
 Lamboginny 
 
@@ -195,6 +199,8 @@ eka ne ri eeh legit eeh, legit eeh
 
 
 ### Read My Lips <a id="readmylips"></a>
+
+<img src="https://www.lamboginny.org/img/music/readmylips.jpg" width="200" height="200" />
 
 Lamboginny is a self described "shoe freak".  In this song kor kor is supposed to describe the sound a beautiful woman makes when she walks in high heels on a wooden floor. 
 
@@ -357,7 +363,7 @@ Lamboginny
 
 ### Yebo <a id="yebo"></a>
 
-<img src="https://www.lamboginny.org/img/music/yebo.png" width="200" height="200" />
+<img src="https://www.lamboginny.org/img/music/yebo.jpg" width="200" height="200" />
 
 Lamboginny 
 
