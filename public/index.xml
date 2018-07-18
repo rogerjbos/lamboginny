@@ -6,19 +6,19 @@
     <description>Recent content on Lamboginny Music World - SALT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.lamboginny.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a new theme</title>
-      <link>https://www.lamboginny.org/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Background on Lamboginny</title>
+      <link>https://www.lamboginny.org/blog/2018/07/18/welcome/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lamboginny.org/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://www.lamboginny.org/blog/2018/07/18/welcome/</guid>
+      <description>Background on Lamboginny Today we are launching Yinka Lawanson Lamboginny&amp;rsquo;s web site.
+Yinka Lawanson was born in 1985 in Lagos, Nigeria and got the stage name Lamboginny as a nick name from his father. In his early twenties, Lamboginny was inspired by artists like the late Bob Marley and Afrobeat music creator &amp;ldquo;Fela Anikulapo Kuti&amp;rdquo; who used their voices and music for more than entertainment. After about ten years signing under various record labels, Lamboginny asked himself &amp;ldquo;Who am I?</description>
     </item>
     
     <item>
@@ -45,7 +45,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.lamboginny.org/music/</guid>
-      <description>Follow on Spotify  Stream on Spotify  [CLICK HERE TO SEE ALL STREAMING OPTIONS](https://lamboginny.fanlink.to/Salt)  SALT is Lamboginny&amp;rsquo;s debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria. 1 - Intro - Sea Sound - Featuring DJ Jimmy Jatt 2 - Salt - Produced by STO 3 - KorKor - Featureing Korede Bello - Produced by Bennie Maccauly 4 - Read My Lips - Featuring Olamide - Produced by STO 5 - Hustle &amp;amp; Pray - Produced by STO 6 - Keep On Moving - Featuring Muna - Produced by STO 7 - Blessed - Produced by STO 8 - Yebo - Featuring Mr.</description>
+      <description>Follow on Spotify  Stream on Spotify  CLICK HERE TO SEE ALL STREAMING OPTIONS 
+SALT is Lamboginny&amp;rsquo;s debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria. 0 - Intro - Sea Sound - Featuring DJ Jimmy Jatt 1 - Salt - Produced by STO 2 - KorKor - Featureing Korede Bello - Produced by Bennie Maccauly 3 - Read My Lips - Featuring Olamide - Produced by STO 4 - Hustle &amp;amp; Pray - Produced by STO 5 - Keep On Moving - Featuring Muna - Produced by STO 6 - Blessed - Produced by STO 7 - Yebo - Featuring Mr.</description>
     </item>
     
     <item>
@@ -54,7 +55,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.lamboginny.org/photos/</guid>
-      <description> Salt album launch concert at Kirikiri prison 2017 Ebola awareness mission trip </description>
+      <description> SALT is Lamboginny&amp;rsquo;s debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria. Lamboginny traveling by boat to Ebola-affected areas to help provide awareness and education to the affected communities. </description>
     </item>
     
   </channel>

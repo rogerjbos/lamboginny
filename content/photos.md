@@ -6,7 +6,7 @@ description = "Photo Album"
 ---
 
 
-# Salt album launch concert at Kirikiri prison 2017
+# SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
 
 ![](https://www.lamboginny.org/img/photos/onstage.jpg)
 
@@ -46,7 +46,7 @@ description = "Photo Album"
 
 ![](https://www.lamboginny.org/img/photos/salt19.jpg)
 
-# Ebola awareness mission trip
+# Lamboginny traveling by boat to Ebola-affected areas to help provide awareness and education to the affected communities.
 
 ![](https://www.lamboginny.org/img/photos/ebola1.jpg)
 

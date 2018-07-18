@@ -1,0 +1,15 @@
++++
+title = "Background on Lamboginny"
+date = "2018-07-18"
+banner = "img/banners/blog1.jpg"
++++
+
+## Background on Lamboginny
+
+Today we are launching Yinka Lawanson Lamboginny's web site.
+
+Yinka Lawanson was born in 1985 in Lagos, Nigeria and got the stage name Lamboginny as a nick name from his father.  In his early twenties, Lamboginny was inspired by artists like the late Bob Marley and Afrobeat music creator "Fela Anikulapo Kuti" who used their voices and music for more than entertainment.  After about ten years signing under various record labels, Lamboginny asked himself "Who am I?" and decided he wanted more substance from his career.  He got the idea to sing in prisons.  An opportunity to do just that came on October 15, 2009 when a friend paved the way for Lamboginny's first prison concert.  "Prisons permit pastors and teachers to minister to the inmates, but what about musicians?  When I saw the inmate's hope after hearing my music, I knew then that I'd found my purpose," Lamboginny said.
+
+Since he began performing, Lamboginny has been using his talents to spread the message of supporting troubled youths who are trying to make positive changes.  He founded Saving All Lives Together (SALT), a movement that raises money to provide music therapy to the prison population, and more importantly, to pay legal costs of young people who have been wrongly incarcerated or cannot pay fines for petty infractions like street begging.  He was named the first official Music Ambassador to the Nigerian Prison Service.  Later he also became an anti-drug ambassador to the National Drug Law Enforcement Agency (NDLEA) in Nigeria.  He has since given up both of those ambassador roles to focus on his musical career and SALT work, but continues to book performances for the inmates at the prisons in Africa, and has recently played in prisons in the UK and Connecticut, USA. 
+
+After one of his concerts, an inmate ran up to him and said, "I am not a criminal".  Lamboginny couldn't get this voice off his mind and looked into the details of that inmate.  He found that the man was in prison for a petty crime like loitering and couldn't pay the necessary fine to be released.  Lamboginny organized his release and started working to help others who were incarerated for petty crimes.  To date, Lamboginny has performed more than a dozen prison concerts and has arranged for the release of 120 young Africans.  With funds that he raises through his performances and record sales, he works to reintegrate released inmates into society, to find them jobs, and to provide vocational workshops to juvenile offenders still in prison.  Lamboginny is known for his hit song "Say No To Crime" featuring Nigeria All Stars, Gbaladun with Olamide and I Believe in Africa.  His current album, SALT, has garnered great reviews and is available on many streaming services.  Concert footage and music videos can be found on YouTube.

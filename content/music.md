@@ -13,41 +13,43 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center"> [CLICK HERE TO SEE ALL STREAMING OPTIONS](https://lamboginny.fanlink.to/Salt) </div>
+[<div class="center"> CLICK HERE TO SEE ALL STREAMING OPTIONS </div>](https://lamboginny.fanlink.to/Salt)
 
 ---
 
-# SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
+![](https://www.lamboginny.org/img/music/salt-Album-Art.jpg)
+
+## SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
 
 
-### 1 - [Intro](#intro) - Sea Sound - Featuring DJ Jimmy Jatt
-### 2 - [Salt](#salt) - Produced by STO
-### 3 - [KorKor](#korkor) - Featureing Korede Bello - Produced by Bennie Maccauly
-### 4 - [Read My Lips](#readmylips) - Featuring Olamide - Produced by STO
-### 5 - [Hustle & Pray](#hustleandpray) - Produced by STO
-### 6 - [Keep On Moving](#keeponmoving) - Featuring Muna - Produced by STO
-### 7 - [Blessed](#blessed) - Produced by STO
-### 8 - [Yebo](#yebo) - Featuring Mr. P (Psquared) - Produced by STO
-### 9 - [Ghetto Boy Dream](#ghettoboydream) - Produced by Cmars
-### 10 - [Club 100](#club100) - Produced by STO
-### 11 - [Washorire](#washorire) - Produced by Bennie Macaulay
-### 12 - [Ore Mi](#oremi) - Produced by STO
-### 13 - [Heal Me](#healme) - Featuring Mike Aremu - Produced by STO
-### 14 - [Ise Oluwa](#iseoluwa) - Featuring Small Doctor - Produced by Bennie Macauly
-### 15 - [One Good Friend](#onegoodfriend) - Produced by Mystro
-### 16 - [My Legacy](#mylegacy) - Produced by STO
+### 0 - [Intro](#intro) - Sea Sound - Featuring DJ Jimmy Jatt
+### 1 - [Salt](#salt) - Produced by STO
+### 2 - [KorKor](#korkor) - Featureing Korede Bello - Produced by Bennie Maccauly
+### 3 - [Read My Lips](#readmylips) - Featuring Olamide - Produced by STO
+### 4 - [Hustle & Pray](#hustleandpray) - Produced by STO
+### 5 - [Keep On Moving](#keeponmoving) - Featuring Muna - Produced by STO
+### 6 - [Blessed](#blessed) - Produced by STO
+### 7 - [Yebo](#yebo) - Featuring Mr. P (Psquared) - Produced by STO
+### 8 - [Ghetto Boy Dream](#ghettoboydream) - Produced by Cmars
+### 9 - [Club 100](#club100) - Produced by STO
+### 10 - [Washorire](#washorire) - Produced by Bennie Macaulay
+### 11 - [Ore Mi](#oremi) - Produced by STO
+### 12 - [Heal Me](#healme) - Featuring Mike Aremu - Produced by STO
+### 13 - [Ise Oluwa](#iseoluwa) - Featuring Small Doctor - Produced by Bennie Macauly
+### 14 - [One Good Friend](#onegoodfriend) - Produced by Mystro
+### 15 - [My Legacy](#mylegacy) - Produced by STO
 
 ---
 
 
 ### Intro <a id="intro"></a>
 
-Lamboginny 
+Lamboginny is introduced by his good frield DJ Jimmy Jatt.
 
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Salt <a id="salt"></a>
@@ -57,7 +59,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### KorKor <a id="korkor"></a>
@@ -340,7 +342,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Blessed <a id="blessed"></a>
@@ -350,27 +352,31 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Yebo <a id="yebo"></a>
 
+![](https://www.lamboginny.org/img/music/yebo.png)
+
 Lamboginny 
 
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Ghetto Boy Dream <a id="ghettoboydream"></a>
 
-Lamboginny 
+![](https://www.lamboginny.org/img/music/ghettoboydream.jpg)
+
+In Ghetto Boy Dream Lamboginny sings about losing both parents early in life and they fact that they never saw what he grew up to become.
 
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Club 100 <a id="club100"></a>
@@ -380,7 +386,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Washorire <a id="washorire"></a>
@@ -390,7 +396,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Oremi <a id="oremi"></a>
@@ -400,7 +406,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Heal Me <a id="healme"></a>
@@ -410,7 +416,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### Ise Oluwa <a id="iseoluwa"></a>
@@ -420,7 +426,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### One Good Friend <a id="onegoodfriend"></a>
@@ -430,7 +436,7 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
 
 ### My Legacy <a id="mylegacy"></a>
@@ -440,5 +446,5 @@ Lamboginny
 #### Lyrics
 
 <div class="center">
-test
+( lyrics coming soon )
 </div>
