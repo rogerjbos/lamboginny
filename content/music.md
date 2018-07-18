@@ -202,7 +202,7 @@ eka ne ri eeh legit eeh, legit eeh
 
 <img src="https://www.lamboginny.org/img/music/readmylips.jpg" width="200" height="200" />
 
-Lamboginny is a self described "shoe freak".  In this song kor kor is supposed to describe the sound a beautiful woman makes when she walks in high heels on a wooden floor. 
+Lamboginny
 
 #### Lyrics
 
