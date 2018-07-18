@@ -17,7 +17,7 @@ description = "Album infomation"
 
 [Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)
 
-</h1></div>
+</div>
 
 ---
 
