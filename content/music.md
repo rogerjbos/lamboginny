@@ -5,8 +5,6 @@ description = "Album infomation"
 
 ---
 
-![SALT](img/salt.jpg)
-
 # Follow on Spotify
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4KK2BzTIojD7LTz9ndsVGF&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
@@ -15,10 +13,9 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center">
-[<h1>Click here to see all streaming options</h1>](https://lamboginny.fanlink.to/Salt)
-</div>
-
+<div class="center"><h1>
+[Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)
+</h1></div>
 
 ---
 
@@ -55,6 +52,15 @@ Lamboginny
 test
 </div>
 
+### Salt <a id="salt"></a>
+
+Lamboginny 
+
+#### Lyrics
+
+<div class="center">
+test
+</div>
 
 ### KorKor <a id="korkor"></a>
 
