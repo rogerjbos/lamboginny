@@ -13,8 +13,10 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center"><h1>
+<div class="center">
+
 [Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)
+
 </h1></div>
 
 ---
@@ -194,14 +196,13 @@ eka ne ri eeh legit eeh, legit eeh
 </div>
 
 
-### Read My Lips
+### Read My Lips <a id="readmylips"></a>
 
 Lamboginny is a self described "shoe freak".  In this song kor kor is supposed to describe the sound a beautiful woman makes when she walks in high heels on a wooden floor. 
 
 #### Lyrics
 
-<div class="center2">
-
+<div class="center">
 [Intro]
 <br>
 Leggo, Lamboginny
