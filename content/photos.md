@@ -1,7 +1,6 @@
 +++
 title = "Photos"
 description = "Photo Album"
-toc: true
 +++
 
 ---
