@@ -1,7 +1,6 @@
 +++
 title = "Photos"
 description = "Photo Album"
-toc: true
 +++
 
 ---
@@ -43,13 +42,9 @@ toc: true
 
 ![](https://www.lamboginny.org/img/photos/salt16.jpg)
 
-![](https://www.lamboginny.org/img/photos/salt17.jpg)
-
 ![](https://www.lamboginny.org/img/photos/salt18.jpg)
 
 ![](https://www.lamboginny.org/img/photos/salt19.jpg)
-
-![](https://www.lamboginny.org/img/photos/salt20.jpg)
 
 # Ebola awareness mission trip
 
@@ -79,6 +74,3 @@ toc: true
 
 ![](https://www.lamboginny.org/img/photos/ebola13.jpg)
 
-![](https://www.lamboginny.org/img/photos/ebola14.jpg)
-
-![](https://www.lamboginny.org/img/photos/ebola15.jpg)
