@@ -17,7 +17,7 @@ description = "Album infomation"
 
 ---
 
-![](https://www.lamboginny.org/img/music/salt-Album-Art.jpg)
+<img src="https://www.lamboginny.org/img/music/salt-Album-Art.jpg" width="200" height="200" />
 
 ## SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
 
@@ -44,7 +44,7 @@ description = "Album infomation"
 
 ### Intro <a id="intro"></a>
 
-Lamboginny is introduced by his good frield DJ Jimmy Jatt.
+Lamboginny is introduced by his good friend DJ Jimmy Jatt.
 
 #### Lyrics
 
@@ -357,7 +357,7 @@ Lamboginny
 
 ### Yebo <a id="yebo"></a>
 
-![](https://www.lamboginny.org/img/music/yebo.png)
+<img src="https://www.lamboginny.org/img/music/yebo.png" width="200" height="200" />
 
 Lamboginny 
 
@@ -369,9 +369,9 @@ Lamboginny
 
 ### Ghetto Boy Dream <a id="ghettoboydream"></a>
 
-![](https://www.lamboginny.org/img/music/ghettoboydream.jpg)
+<img src="https://www.lamboginny.org/img/music/ghettoboydream.jpg" width="200" height="200" />
 
-In Ghetto Boy Dream Lamboginny sings about losing both parents early in life and they fact that they never saw what he grew up to become.
+In Ghetto Boy Dream Lamboginny sings about losing both parents early in life and the fact that they never saw what he grew up to become.
 
 #### Lyrics
 
