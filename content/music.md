@@ -13,11 +13,7 @@ description = "Album infomation"
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:album:3dpbAKjKa8gFmGSfjxReUs" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<div class="center">
-
-[Click here to see all streaming options](https://lamboginny.fanlink.to/Salt)
-
-</div>
+<div class="center"> [CLICK HERE TO SEE ALL STREAMING OPTIONS](https://lamboginny.fanlink.to/Salt) </div>
 
 ---
 
@@ -337,18 +333,7 @@ STO lo se beat yen, outro
 <br>
 </div>
 
-
-### Intro <a id="intro"></a>
-
-Lamboginny 
-
-#### Lyrics
-
-<div class="center">
-test
-</div>
-
-### Intro <a id="intro"></a>
+### Keep On Moving <a id="keeponmoving"></a>
 
 Lamboginny 
 
@@ -358,7 +343,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Blessed <a id="blessed"></a>
 
 Lamboginny 
 
@@ -368,7 +353,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Yebo <a id="yebo"></a>
 
 Lamboginny 
 
@@ -378,7 +363,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Ghetto Boy Dream <a id="ghettoboydream"></a>
 
 Lamboginny 
 
@@ -388,7 +373,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Club 100 <a id="club100"></a>
 
 Lamboginny 
 
@@ -398,7 +383,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Washorire <a id="washorire"></a>
 
 Lamboginny 
 
@@ -408,7 +393,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Oremi <a id="oremi"></a>
 
 Lamboginny 
 
@@ -418,7 +403,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Heal Me <a id="healme"></a>
 
 Lamboginny 
 
@@ -428,7 +413,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### Ise Oluwa <a id="iseoluwa"></a>
 
 Lamboginny 
 
@@ -438,7 +423,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
+### One Good Friend <a id="onegoodfriend"></a>
 
 Lamboginny 
 
@@ -448,27 +433,7 @@ Lamboginny
 test
 </div>
 
-### Intro <a id="intro"></a>
-
-Lamboginny 
-
-#### Lyrics
-
-<div class="center">
-test
-</div>
-
-### Intro <a id="intro"></a>
-
-Lamboginny 
-
-#### Lyrics
-
-<div class="center">
-test
-</div>
-
-### Intro <a id="intro"></a>
+### My Legacy <a id="mylegacy"></a>
 
 Lamboginny 
 
