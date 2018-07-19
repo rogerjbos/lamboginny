@@ -6,7 +6,7 @@ description = "Photo Album"
 ---
 
 
-# SALT is Lamboginny's debut album as an indepenent artist and was released in October 2017 at the Kirikiri medium security prison in Lagos Nigeria.
+# SALT is Lamboginny's debut album as an indepenent artist and was released October 12, 2017 at the Kirikiri medium security prison in Lagos Nigeria.
 
 ![](https://www.lamboginny.org/img/photos/onstage.jpg)
 
