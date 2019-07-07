@@ -114,7 +114,7 @@ paginate = 1
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.jpg"
+    logo = "img/logo.png"
     address = """<p><strong>Lamboginny Music World</strong>
         <br>
         <strong>Lagos Nigeria</strong>
