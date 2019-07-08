@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.lamboginny.org/blog/2018/07/18/welcome/</loc>
+    <loc>/blog/2018/07/18/welcome/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lamboginny.org/blog/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lamboginny.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lamboginny.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lamboginny.org/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lamboginny.org/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.lamboginny.org/music/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.lamboginny.org/photos/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.lamboginny.org/tags/</loc>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/music/</loc>
+  </url>
+  
+  <url>
+    <loc>/photos/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
