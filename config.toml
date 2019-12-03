@@ -106,7 +106,7 @@ paginate = 1
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "lamboginnysalt@gmail.com"
+    email = "lamboginny84@gmail.com"
 
     about_us = "<p>Lamboginny is a popular afro-dancehall artist for humanitarian causes.  He likes to help inmates and less priviledged youths find their footing in life.  He was the first musician in Nigeria to be a prison ambassador and an anti-crime ambassador.</p>"
     copyright = "Copyright (c) 2019, Lamboginny Music; all rights reserved."
