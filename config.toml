@@ -130,7 +130,7 @@ paginate = 1
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at lamboginnysalt@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at lamboginny84@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
