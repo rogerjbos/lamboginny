@@ -7,7 +7,7 @@ id = "contact"
 
 We look forward to hearing from you and will respond as soon as possible. 
 
-Email: [lamboginny@lamboginny.org]("mailto:lamboginny@lamboginny.org"
+Email: <lamboginny@lamboginny.org>
 
-Bookings: [mgmt@lamboginny.org]("mailto:mgmt@lamboginny.org"
+Bookings: <mgmt@lamboginny.org>
 
