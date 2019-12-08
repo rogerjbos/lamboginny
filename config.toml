@@ -59,7 +59,7 @@ paginate = 1
 [[menu.topbar]]
     weight = 1
     name = "Linked In"
-    url = "https://linkedin.com/Lamboginny-lawanson-1402848a"
+    url = "https://www.linkedin.com/in/lamboginny-lawanson-1402848a/"
     pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
 [[menu.topbar]]
