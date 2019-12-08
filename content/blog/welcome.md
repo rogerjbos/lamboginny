@@ -1,6 +1,5 @@
 +++
 title = "Background on Lamboginny"
-date = "2018-07-18"
 banner = "img/banners/blog1.jpg"
 +++
 
